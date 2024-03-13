@@ -1,11 +1,9 @@
 # pics
 
-![sleeping-baby (1)](https://github.com/wesleyscholl/pics/assets/128409641/2208f971-0316-427d-96cc-b4c4f8663a83)
-
-![breastfeeding (2)](https://github.com/wesleyscholl/pics/assets/128409641/3e08c224-e7b6-4edb-b3e5-d305b4baf1c6)
-
-![baby (1)](https://github.com/wesleyscholl/pics/assets/128409641/2cb15916-8930-40f3-ba51-b76f3d9e6141)
-
-![feeding-bottle (1)](https://github.com/wesleyscholl/pics/assets/128409641/08315814-aeff-49bc-837b-48b94e0b6e87)
-
-![babysitter](https://github.com/wesleyscholl/pics/assets/128409641/ae729637-8fdb-4972-be25-97e88ae1d637)
+![babysitter](https://github.com/wesleyscholl/pics/assets/128409641/cbd9ecd2-2c55-4fed-b8ed-167ea6501bc7)
+![stroller](https://github.com/wesleyscholl/pics/assets/128409641/c141d438-23f9-4b9e-a731-d379ad00d07e)
+![baby (1)](https://github.com/wesleyscholl/pics/assets/128409641/73f12fa4-d67f-410c-9fa1-dc84789f9365)
+![feeding-bottle (1)](https://github.com/wesleyscholl/pics/assets/128409641/d3b9affd-ef0b-4bd8-9f09-e80fe360e7ad)
+![breastfeeding (2)](https://github.com/wesleyscholl/pics/assets/128409641/8fdf977c-a5ad-4aaa-81de-9a3a99d1f573)
+![sleeping-baby (1)](https://github.com/wesleyscholl/pics/assets/128409641/7fcf48d2-7888-4f71-9d0f-bf5074b5160b)
+![baby](https://github.com/wesleyscholl/pics/assets/128409641/51993d6b-fda4-4ca9-a0f4-71873d4ff6be)
