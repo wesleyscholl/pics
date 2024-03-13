@@ -12,3 +12,4 @@
 ![rubber-duck (1)](https://github.com/wesleyscholl/pics/assets/128409641/724a5a07-8017-450e-80dd-996ffd29c1c4)
 ![bathing](https://github.com/wesleyscholl/pics/assets/128409641/bb28d6db-3bed-4324-a4e3-4b85c876b990)
 ![night](https://github.com/wesleyscholl/pics/assets/128409641/454088c4-e956-402f-b470-8991b521a763)
+![storytelling](https://github.com/wesleyscholl/pics/assets/128409641/419d34a1-00c6-4e25-8296-d84fb5bed6b5)
